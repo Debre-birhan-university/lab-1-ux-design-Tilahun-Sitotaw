@@ -33,8 +33,106 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > [
+
+🇪🇹 Selected Ethiopian App
+
+M-Pesa Ethiopia (by Safaricom Ethiopia)
+
+✔ The application is currently functional in Ethiopia
+✔ A unique app selection
+✔ Designed specifically for Ethiopian users
+
+🎨 Design Tool Used
+
+draw.io (diagrams.net)
+
+📐 Designed Screens (Deliverables)
+
+The following UX wireframe screens were designed and exported as PNG images:
+
+Splash Screen
+
+Login Screen
+
+Home Dashboard
+
+Send Money Screen
+
+Transaction History
+
+Profile Screen
+
+📂 All designs are uploaded in this repository as PNG/JPG files.
+
+🧠 UX Design Explanation (Why This Design Is Good)
+1️⃣ User-Centered Design
+
+The interface is designed for everyday Ethiopian users, including first-time mobile money users.
+
+Large buttons
+
+Clear icons
+
+Simple navigation
+
+This reduces confusion and improves usability.
+
+2️⃣ Clear Navigation Flow
+
+The app follows a logical user journey:
+
+Login → Home → Action (Send / Pay / View) → Profile
+
+A bottom navigation bar ensures users can easily move between screens without getting lost.
+
+3️⃣ Accessibility & Simplicity
+
+High-contrast green & white color theme
+
+Readable text sizes
+
+Minimal text per screen
+
+This makes the app usable even for users with low digital literacy.
+
+4️⃣ Ethiopian Context Awareness
+
+Currency displayed in ETB
+
+Phone number format (+251)
+
+Optional English / Amharic language support
+
+The design respects local user needs and habits.
+
+5️⃣ Low-Bandwidth Friendly Design
+
+The wireframes avoid heavy images and animations, making the design suitable for:
+
+Slow internet connections
+
+Affordable Android devices
+
+This is very important for Ethiopian mobile users.
+
+📤 Submission Checklist (Completed)
+
+Tutorial proof uploaded (mobileapp.png)
+Main project screens exported as PNG/JPG
+README.md fully filled
+Ethiopian working application selected
+UX explanation provided
+
+👤 Student Information
+
+Name: Tilahun Sitotaw ID DBU 150 1508
+
+Course: Mobile App 
+
+Lab: Lab 1 – Ethiopian App Case Study
+]
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> [Draw.io]
